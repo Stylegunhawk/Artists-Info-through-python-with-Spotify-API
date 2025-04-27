@@ -94,7 +94,7 @@ A super easy Python command-line tool to search, view, and save detailed Spotify
      ```
 
 ## Usage
-<<<<<<< HEAD
+
 Run the CLI tool and follow the prompts:
 ```bash
 python spotify_top_artists.py --search
