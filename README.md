@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Spotify Top Artists Explorer
 
 A Python CLI tool that authenticates with your Spotify account, lets you search for artists, view their detailed info, and save only the essential artist data for future use. The tool manages access tokens securely, fetches top tracks, albums, and related artists, and deduplicates saved data by artist ID.
 =======
-<<<<<<< HEAD
+
 # Artists-Info-through-python-with-Spotify-API
 =======
 # Spotify Top Artists Explorer
@@ -61,7 +61,7 @@ A super easy Python command-line tool to search, view, and save detailed Spotify
   - Discover popular artists
 
 ---
->>>>>>> legal-attribution
+
 
 ## Features
 - **Artist Search:** Search for any artist by name or song title and view the top 5 matches.
@@ -116,7 +116,7 @@ python spotify_top_artists.py --search
   - `--playlists` — Show your playlists
 
 Saved artist data is written to `saved_artists.json` (deduplicated by artist ID).
->>>>>>> legal-attribution
+
 
 ## Example
 ```
