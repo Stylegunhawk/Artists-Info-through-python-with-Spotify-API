@@ -1,0 +1,6 @@
+# Sensitive and non-essential files to ignore
+.env
+scrapped_artists.json
+Scrapper.py
+migrate_scrapped_artists.py
+access_token.json
